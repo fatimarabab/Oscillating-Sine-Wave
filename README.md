@@ -1,6 +1,9 @@
 # Oscillating-Sine-Wave
 A webpage that displays a continuously flowing sine wave.
 
+## Demo:
+!![Alt Text](https://github.com/fatimarabab/Oscillating-Sine-Wave/blob/master/SineWave.gif)
+
 ## Installation and Run Instructions
 Download ZIP folder and open HTML file in browser.
 
