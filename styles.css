@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    font-family: Open Sans;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.viewOptions {
+    text-align: center;
+    color: gray;
+    /* text-align-last: left; */
+}
+
+p {
+    font-weight: bold;
+}
+

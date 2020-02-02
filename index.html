@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MIC Assignment - Continuous Sine wave</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<script type="text/javascript" src="SineWave.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body onload="init()">
+	<h1>Oscillating Sine Wave GIF</h1>
+	<form class="viewOptions">
+		<p>Select Viewing options:</p>
+		<div>
+			<input type="checkbox" id="axes" name="gifOption" value="axes">
+			<label for="axes">View Axes</label>
+		</div>
+		<div>
+			<input type="checkbox" id="direction" name="gifOption" value="direction">
+			<label for="direction">Move wave in right to left direction</label>
+		</div>
+	</form>
+	<p>
+		<canvas id="canvas" width="1265" height="500">
+			Oscillating Sine Wave
+		</canvas>
+	</p>
+		
+</body>
+</html>
